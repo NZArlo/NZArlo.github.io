@@ -1,13 +1,12 @@
 # set `baseurl` to your root domain
 # if you set it to "/" share icons won't work properly on production
-baseurl = "http://mediaboost.co.nz/"  # Include trailing slash
-title = "Boost Media"
+baseurl = "https://mediaboost.co.nz/"  # Include trailing slash
+title = "Boost News"
 author = "Anthony Teh"
 #canonifyurls = true
 paginate = 8
 PaginatePath = "/posts/"
 theme = "hugo-curious"
-submodule = "hugo-curious"
 
 DefaultContentLanguage = "en"
 # [languages]
@@ -46,10 +45,10 @@ series = "series"
   notes = "/:slug/"
 
 [params]
-author = "Boost Media"
+author = "Boost News"
 twitter = "@vietanhdev"
 largeTwitterCard = false # set to true if you want to show a large twitter card image. The default is a small twitter card image
-introDescription = "Your one stop shop for all your latest News, Property and Business!"
+introDescription = "Boost your media!"
 description = "Building AI-powered systems. AI modeling and deployment skills for developers, students, and researchers." # set your site's description here. will be use for home page content meta tags (seo). Alternatively set this description in your homepage content file i.e content/_index.md. Whatever is set in the latter will take precedence
 searchTypes = ["posts", "notes"]
 

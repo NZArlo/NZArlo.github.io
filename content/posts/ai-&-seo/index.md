@@ -7,13 +7,13 @@ tags:
 - AI
 - SEO
 description: "As we move towards the middle of 2023, social media is still developing and playing a big part in our daily lives. Social platforms provide a special opportunity to connect with your audience and foster meaningful connections, whether you are an individual, small business, or major corporation. In this post, we'll examine a few of the social media trends that are expected to take over throughout the year."
-thumbnail: "/images/ai-&-seo/thumbnail.png"
+thumbnail: "/posts/ai-&-seo/thumbnail.webp"
 slug: "/posts/ai-&-seo/"
 discussionId: "/posts/ai-&-seo/"
 featured: true
 toc: true
 ---
-![UK Correspondent: Peter Minkoff](/images/ai-&-seo/thumbnail.png)
+![UK Correspondent: Peter Minkoff](thumbnail.png)
 
 Search engine optimisation (SEO) has grown in importance as a component of online marketing strategies in the current digital era. Artificial intelligence (AI), a potent tool that has multiple effects on SEO, has emerged in the ever-evolving technological scene. The way search engines rank websites, interpret user intent, and deliver pertinent search results has been completely transformed by AI algorithms. We will examine the relationship between AI and SEO in this article and look into how AI affects the optimisation process.
 
