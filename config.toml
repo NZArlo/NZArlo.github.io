@@ -7,7 +7,6 @@ author = "Anthony Teh"
 paginate = 8
 PaginatePath = "/posts/"
 theme = "hugo-curious"
-submodule = "hugo-curious"
 
 DefaultContentLanguage = "en"
 # [languages]
